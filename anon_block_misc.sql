@@ -1,3 +1,5 @@
+and why are you such a doh-doh head?
+
 -- =====================================================================
 -- PROGRAM NAME  : anon
 -- SOURCE NAME   : anon.sql
